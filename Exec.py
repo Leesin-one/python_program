@@ -1,1 +1,1 @@
-print('我爱班月春')
+print('aaa')
