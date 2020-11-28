@@ -1,0 +1,12 @@
+cat:
+  name: "丽丽"
+  color: "白色"
+  age: 10,
+  gender: "男"
+  hair: "短毛"
+dog:
+  name: "铃铛"
+  color: "黑色"
+  age: 3
+  gender: "女"
+
